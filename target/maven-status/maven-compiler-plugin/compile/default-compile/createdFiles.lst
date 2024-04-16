@@ -1,0 +1,10 @@
+com/example/studentendpoint/WebServiceConfig.class
+com/example/studentendpoint/StudentendpointApplication.class
+com/example/studentendpoint/GetStudentResponse.class
+com/example/studentendpoint/ObjectFactory.class
+com/example/studentendpoint/StudentEndpoint.class
+com/example/studentendpoint/GetStudentRequest.class
+com/example/studentendpoint/package-info.class
+com/example/studentendpoint/StudentRepository.class
+com/example/studentendpoint/StudentService.class
+com/example/studentendpoint/Student.class
